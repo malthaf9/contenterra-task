@@ -1,0 +1,1 @@
+export const FETCH_API = 'https://www.reddit.com/r/reactjs.json';
